@@ -14,6 +14,11 @@ Goal / Flag Location:
 Intended Difficulty:  
 - Beginner to Intermediate
 
+## 📥 Download
+
+🗃️ **VM ZIP File**  
+🔗 [Download SuhelMachine.zip (Google Drive)](https://drive.google.com/file/d/1DUY-sTmugsA4jyXMCIuVDvtBxELptFqw/view?usp=sharing)  
+
 ## 🖥️ Requirements to Run
 
 - **Recommended:** VMware Workstation 17+
